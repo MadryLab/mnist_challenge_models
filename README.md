@@ -1,0 +1,4 @@
+# Models for the MNIST Challenge
+This repository contains trained models for the
+MNIST adversarial challenge. At the challenge repository you can find
+instructions for downloading and using these models.
